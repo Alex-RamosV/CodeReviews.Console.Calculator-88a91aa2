@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexRamos.Calculator", "Ale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{ADCF80A5-6B0E-4BA5-AE12-C79950B55778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory", "Memory\Memory.csproj", "{D64E0913-79C8-4ABC-A9F7-77A6B0EB6AB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ADCF80A5-6B0E-4BA5-AE12-C79950B55778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADCF80A5-6B0E-4BA5-AE12-C79950B55778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADCF80A5-6B0E-4BA5-AE12-C79950B55778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64E0913-79C8-4ABC-A9F7-77A6B0EB6AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64E0913-79C8-4ABC-A9F7-77A6B0EB6AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64E0913-79C8-4ABC-A9F7-77A6B0EB6AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64E0913-79C8-4ABC-A9F7-77A6B0EB6AB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
